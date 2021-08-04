@@ -9,5 +9,3 @@ $python Foldx_variant_combinations_calculation.py Alpha_variant_mutations.txt 6v
 The output will be a series of folders containing the combinations. To get all of the energy combinations run the analysis script:
 
 $python Foldx_summarize.py
-
-The zip file "Compressed_variant_files.zip" contain an example output from the calcualtion on the Alpha variant (not expanded here due to the large number of files)
