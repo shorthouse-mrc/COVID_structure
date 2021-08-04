@@ -6,6 +6,6 @@ Mutational energies are calculated by running the "Foldx_variant_combinations_ca
 
 $python Foldx_variant_combinations_calculation.py Alpha_variant_mutations.txt 6vxx_preRepair_Repair.pdb
 
-The output will be a series of folders containing the combinations. To get all of the energy combinations run the analysis script:
+The output will be a series of folders containing the combinations. To summarize all of the energy combinations run the analysis script:
 
 $python Foldx_summarize.py
